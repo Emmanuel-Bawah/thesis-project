@@ -1,0 +1,30 @@
+# Virtual Environments
+venvs/
+*.pyc
+__pycache__/
+
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+*.pkl
+*.npy
+
+# Logs
+*.log
+data/logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
