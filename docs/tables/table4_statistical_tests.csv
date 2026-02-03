@@ -1,0 +1,4 @@
+Metric,F_Statistic,P_Value,Significance,Effect_Size_CohenD,Interpretation
+Key Generation,162.16,<0.0001,Highly Significant,-2.14,Large
+Encryption,6.38,<0.0001,Significant,-6.38,Large
+Decryption,144160.11,<0.0001,Extremely Significant,-66.01,Astronomical

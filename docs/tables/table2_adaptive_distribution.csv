@@ -1,0 +1,10 @@
+device_type,network_condition,kyber512,kyber768
+high-end,2G,0.0,30.0
+high-end,3G,0.0,30.0
+high-end,4G,0.0,30.0
+low-end,2G,20.0,10.0
+low-end,3G,20.0,10.0
+low-end,4G,20.0,10.0
+mid-range,2G,20.0,10.0
+mid-range,3G,0.0,30.0
+mid-range,4G,0.0,30.0

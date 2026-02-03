@@ -1,0 +1,6 @@
+System,Key_Type,Security_Level,Public_Key_Bytes,Private_Key_Bytes,Quantum_Resistant
+Kyber-768,Post-Quantum,NIST Level 3,1184,2400,Yes
+RSA-2048,Classical,Classical 112-bit,450,1674,No
+ECDH-P256,Classical,Classical 128-bit,178,241,No
+Kyber-512,Post-Quantum,NIST Level 1,800,1632,Yes
+Adaptive,Post-Quantum,Adaptive L1/L3,Varies,Varies,Yes

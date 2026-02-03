@@ -1,0 +1,5 @@
+Study,Platform,Key_Gen_ms,Encryption_ms,Decryption_ms,Quantum_Safe
+Kumar & Singh (2021),x86,-,45.0,-,Yes
+Zhang et al. (2022),x86,-,-,-,Yes
+This Work (Kyber-768),ARM64,0.52,0.93,0.46,Yes
+This Work (Adaptive),ARM64,0.44,0.51,0.45,Yes
